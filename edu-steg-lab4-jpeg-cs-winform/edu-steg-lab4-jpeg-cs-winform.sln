@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edu-steg-lab4-jpeg-cs-winform", "edu-steg-lab4-jpeg-cs-winform\edu-steg-lab4-jpeg-cs-winform.csproj", "{8F1B09E8-8F6D-4786-B69A-23B97F56087D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1B09E8-8F6D-4786-B69A-23B97F56087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1B09E8-8F6D-4786-B69A-23B97F56087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1B09E8-8F6D-4786-B69A-23B97F56087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1B09E8-8F6D-4786-B69A-23B97F56087D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF520331-4E91-4905-8179-F50208F363AC}
+	EndGlobalSection
+EndGlobal
